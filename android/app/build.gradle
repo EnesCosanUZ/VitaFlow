@@ -74,9 +74,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.vitaflow"
+    namespace "com.enescosanuz.vitaflow"
     defaultConfig {
-        applicationId "com.vitaflow"
+        applicationId "com.enescosanuz.vitaflow"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
